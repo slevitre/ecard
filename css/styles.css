@@ -1,0 +1,74 @@
+/* Reset some default browser styles */
+body, h1, h2, h3, p, button, input {
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Make a background color for the whole page */
+  body {
+    background-color: #121212;
+    font-family: Arial, sans-serif;
+    color: #ffffff;
+  }
+  
+  /* Add padding and center content */
+  body, html {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  
+  /* Style for the headers */
+  h1, h2 {
+    margin-bottom: 20px;
+    color: #BB86FC;
+  }
+  
+  /* Style for paragraphs and other text */
+  p, label, span {
+    color: #CF6679;
+  }
+  
+  /* Style the input fields */
+  input {
+    background-color: #2D2D2D;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    color: #CF6679;
+    margin-bottom: 20px;
+  }
+  
+  /* Style the button */
+  button {
+    background-color: #BB86FC;
+    border: none;
+    color: #121212;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  /* Hover effect for button */
+  button:hover {
+    background-color: #9A56D9;
+  }
+  
+  /* Navigation link */
+  a {
+    color: #BB86FC;
+    text-decoration: none;
+    margin: 10px;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
