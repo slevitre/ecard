@@ -7,4 +7,3 @@ function calculateBayesian() {
   
     document.getElementById("result").innerText = posterior;
   }
-  
