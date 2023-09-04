@@ -15,7 +15,7 @@
 
 ## Introduction 🎉
 
-Hey there! Welcome to the GitHub Pages repository that hosts the elegant professional resume of **Sarah Godfrey, RDN**. With years of expertise in nutrition and dietetics, this is your one-stop-shop to get to know her professionally. Her unique mix of clinical and technological prowess makes her a standout professional in her field.
+Hey there! Welcome to the GitHub Pages repository that hosts the elegant professional resume of **Sarah Godfrey, RDN**. With years of expertise in nutrition and dietetics, this is your one-stop-shop to get to know me professionally. My unique mix of clinical and technological prowess enable me to create structures of equitable care and to help patients 1-on-1.
 
 ### Features 🌟
 
@@ -26,11 +26,11 @@ Hey there! Welcome to the GitHub Pages repository that hosts the elegant profess
 
 ## Work Experience 👩‍⚕️
 
-From optimizing team efficiency at the **University of Michigan** to closing outcome gaps for high-risk patients at **MediLodge of Taylor**, Sarah has a track record of professional excellence. Each role has been a stepping stone to the next, and you can see that growth in the resume.
+From optimizing team efficiency at the **University of Michigan** to closing outcome gaps for high-risk patients at **MediLodge of Taylor**, I have a track record of professional excellence. Each role has taught invaluable lessons, and you can see that growth in the resume.
 
 ## Education 🎓
 
-Sarah is an alumna of **Brigham Young University**, where she studied Dietetics, and completed her Dietetic Internship at **Priority Nutrition Care in Boston**. She's been consistently recognized for her academic performance.
+I am an alumna of **Brigham Young University**, where I studied Dietetics, and completed my Dietetic Internship at **Priority Nutrition Care in Boston**.
 
 ## Technical Skills 💻
 
