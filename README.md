@@ -1,6 +1,6 @@
 # Sarah Godfrey, RDN - Professional Resume
 
-![Sarah's Profile Picture](img/sarah-pfp.jpg)
+<img src="img/sarah-pfp.jpg" alt="Sarah's Profile Picture" width="250"/>
 
 🔍 **Visit the Live Resume Here:** [Sarah Godfrey, RDN](https://slevitre.github.io/ecard/)
 
